@@ -2,7 +2,7 @@
   name: Setup webserver
   become: true
   vars:
-    fullname: "Andri Junaedi"
+    fullname: "Ranti Wilda Nur Octavia"
     node_version: "16.13.1"
     git_repository: "https://github.com/dicodingacademy/a387-jarkom-labs.git"
     app_dir: "$HOME/a387-jarkom-labs"
